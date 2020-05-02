@@ -1,4 +1,4 @@
-# PyTorch Tutorial
+# PyTorch SOTA Template Formation Guide
 
 1. [PyTorch Part 1 Pytorch Basics](https://github.com/sagarrathi/PytorchTutorial/blob/master/PyTorch%20Part%201%20Pytorch%20Basics.ipynb)
 
